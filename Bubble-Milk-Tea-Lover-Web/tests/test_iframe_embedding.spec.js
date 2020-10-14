@@ -19,6 +19,7 @@ describe("Test iframe embedding", () => {
       cy.get("iframe").should("have.class", "youtube");
       cy.xpath("//*[@class='youtube']").then(($ele) => {
         var ifele = $ele.contents().find(".ytp-large-play-button");
+        ifele.click();
         // prompt($ele);
         // cy.wrap(ifele).click();
       });
