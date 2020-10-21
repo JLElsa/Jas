@@ -1,5 +1,5 @@
 # Readme
-## Check out the bubble milk tea lover web! :blush:
+## Check out the bubble milk tea lover web! :blush: [Link](https://github.com/JLElsa/Jas/tree/master/Bubble-Milk-Tea-Lover-Web)
 Credits to:
 - Music made by Heiakim [Link](https://www.youtube.com/channel/UCnTB8uNxND40iwvPiyzpnWw)
 
@@ -7,7 +7,7 @@ Credits to:
 
 - Milktea wave is modified from youtube tutorial [Link](https://www.youtube.com/watch?v=MMNEEdGa5eE)
 
-## Also, Check out the photo album demo! :smiley:
+## Also, Check out the photo album demo! :smiley: [Link](https://github.com/JLElsa/Jas/tree/master/Photo-Album)
 Credits to:
 - Photos and flex box demo code is programmed by Tim Van Damme [Link](https://css-tricks.com/adaptive-photo-layout-with-flexbox/#demo)
 
@@ -17,7 +17,7 @@ Credits to:
 
 - Slide show photos are online resouces, creators of those images have their full rights reserved. The photo album demo is only for my personal project usage, all rights reserved. 
 
-## Field detection project
+## Field detection project [Link](https://github.com/JLElsa/Jas/tree/master/Field-Detection)
 Credits to:
 - Ashrafur Rahman [Link](https://www.linkedin.com/in/ashrafsrv/)
 
@@ -29,7 +29,7 @@ Credits to:
 
 - "SIMPLEKML 1.3.1 documentation" [Link](https://simplekml.readthedocs.io/en/latest/gettingstarted.html#creating-a-kml-document)
 
-## Simple Demo
+## Simple Demo [Link](https://github.com/JLElsa/Jas/tree/master/Simple%20Demo)
 Credits to:
 - How TO - Smooth Scroll" tutorial from W3School.com [Link](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_smooth_scroll)  
 Tools:
