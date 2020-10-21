@@ -17,4 +17,16 @@ Credits to:
 
 - Slide show photos are from online resouces, creators of those images have their full rights reserved. The photo album demo is only for a non-commercial use with modification. 
 
+## Field detection project
+Credits to:
+- Ashrafur Rahman [Link](https://www.linkedin.com/in/ashrafsrv/)
+
+- Harry Roache-Wilson [Link](https://www.linkedin.com/in/harryroachewilson/)
+
+- "Obtain Latitude and Longitude from a GeoTIFF File" [Link](https://stackoverflow.com/questions/2922532/obtain-latitude-and-longitude-from-a-geotiff-file)  
+
+- "Latitude/Longitude of each pixel using python and gdal" [Link](https://scriptndebug.wordpress.com/2014/11/24/latitudelongitude-of-each-pixel-using-python-and-gdal/amp/)  
+
+- "SIMPLEKML 1.3.1 documentation" [Link](https://simplekml.readthedocs.io/en/latest/gettingstarted.html#creating-a-kml-document)
+
 **\*\*Please give me a notice if there is any issue regarding to the sources I used via e-mail: hlee3288@uni.sydmey.edu.au\*\***
