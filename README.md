@@ -29,4 +29,4 @@ Credits to:
 
 - "SIMPLEKML 1.3.1 documentation" [Link](https://simplekml.readthedocs.io/en/latest/gettingstarted.html#creating-a-kml-document)
 
-**\*\*Please give me a notice if there is any issue regarding to the sources I used via e-mail: hlee3288@uni.sydmey.edu.au\*\***
+**\*\*Please give me a notice if there is any issue regarding to the sources I used via e-mail: elsalee841020@gmail.com\*\***
