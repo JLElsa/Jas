@@ -31,7 +31,7 @@ Credits to:
 
 ## Simple Demo
 Credits to:
-- How TO - Smooth Scroll from W3School.com [Link](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_smooth_scroll)
+- How TO - Smooth Scroll" tutorial from W3School.com [Link](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_smooth_scroll)
 Tools:
   - Bootstrap CSS Framework
   - Cypress End to End Testing Framework
