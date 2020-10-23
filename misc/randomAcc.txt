@@ -1,0 +1,23 @@
+Random accounts for testing only
+acount 1
+bla
+bla
+!jjgoD520
+0450 123 456
+
+acount 2
+blabla
+blaster
+blastering@gmail.com
+Dum1Pwd!
+01041991
+0451123456
+
+acount 3
+iamtesting
+alastname0
+testersayhi@gmail.com
+Dum1Pwd!!!!!!!!!!
+01041991
+0469123456
+
