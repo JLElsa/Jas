@@ -6,8 +6,12 @@ Go to sign up
 User creates an account
 User receives welcome message
 User browse for product
+User add a product to cart with 3 different approaches
+Check cart with 1 product
 User add a product to cart
-User checks the cart to view all added products
+Check cart with 2 product
+User add a product to cart
+Check cart with 3 product
 
 ## 2. Exisitng account
 Example Account:
@@ -22,7 +26,7 @@ phone: 0451123456
 Go to login
 Enter valid account details
 User browse for product
-User add a product to cart
+User add a product to cart with 3 different approaches
 User checks the cart to view all added products
 
 ## 2.2 Createing an exisitng account again, after it fails, go to login
