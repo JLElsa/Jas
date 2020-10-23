@@ -11,16 +11,16 @@ describe('Create user', () => {
             cy.get('.hidden-xs.loginForm-label a').click()
 
             // Enter a non-exisiting user fitst name
-            cy.get('#shared-text-input-3').type('iamtesting', { delay: 0 })
-                .should('have.value', 'iamtesting')
+            cy.get('#shared-text-input-3').type('makeatestName', { delay: 0 })
+                .should('have.value', 'makeatestName')
 
             // Enter a non-exisiting user last name
-            cy.get('#shared-text-input-4').type('alastname0', { delay: 0 })
-                .should('have.value', 'alastname0')
+            cy.get('#shared-text-input-4').type('testlastname0', { delay: 0 })
+                .should('have.value', 'testlastname0')
 
             // Enter a non-exisiting email, example syntax: ...@sht.sth
-            cy.get('#shared-text-input-5').type('testersayhi@gmail.com', { delay: 0 })
-                .should('have.value', 'testersayhi@gmail.com')
+            cy.get('#shared-text-input-5').type('randomem123@gmail.com', { delay: 0 })
+                .should('have.value', 'randomem123@gmail.com')
 
             // Enter a random password, according to website format
             cy.get('#signupForm-password').type('Dum1Pwd!!!!!!!!!!!', { delay: 0 })
@@ -37,8 +37,8 @@ describe('Create user', () => {
             cy.get('#shared-text-input-7').type('01/04/1991', { delay: 0 })
                 .should('have.value', '01/04/1991')
 
-            cy.get('#shared-text-input-8').type('0469123456', { delay: 0 })
-                .should('have.value', '0469123456')
+            cy.get('#shared-text-input-8').type('0460123456', { delay: 0 })
+                .should('have.value', '0460123456')
             cy.get('#signupForm-promoSMS').click({ force: true })
             cy.get('#signupForm-promoEmails').click({ force: true })
             cy.get('#signupForm-promoCatalogue-no').click({ force: true })
@@ -55,7 +55,7 @@ describe('Create user', () => {
             cy.get('.coreHeader-profile.coreHeader-accMobileProfile.ng-star-inserted').click()
 
             // Enter an exisiting user first name
-            cy.get('.personalDetails-col.personalDetails-col--right').contains('iamtesting')
+            cy.get('.personalDetails-col.personalDetails-col--right').contains('makeatestName')
         })
         it('Find target product from browse groceries', () => {
             // Use browse groceries as filter to find watermelon

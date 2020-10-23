@@ -1,3 +1,12 @@
+Find the test file [link]()
+1. Go to Cypress folder
+2. Go to integration folder
+3. File named "woolworths.spec.js"
+    - Note:
+        - First time run all the tests cases will pass.
+            - New user account details are in the test(1. New account)
+        - The second time to run the whole tests will need the tester to **manually enter new user details** to create a new user(1. New account).
+
 # Cypress tests for woolworths website
 ## 1. New account
 Go to Woolworths website
