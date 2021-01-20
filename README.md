@@ -1,5 +1,6 @@
 # Readme
 ## Check out the bubble milk tea lover web! :blush: [Link](https://github.com/JLElsa/Jas/tree/master/Bubble-Milk-Tea-Lover-Web)
+![Gif of screen shot][https://github.com/JLElsa/Jas/blob/master/Bubble-Milk-Tea-Lover-Web/Gif_of_web_animation.gif]
 Credits to:
 - Music made by Heiakim [Link](https://www.youtube.com/channel/UCnTB8uNxND40iwvPiyzpnWw)
 
