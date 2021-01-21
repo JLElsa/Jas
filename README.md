@@ -19,7 +19,10 @@ Credits to:
 - Slide show photos are online resouces, creators of those images have their full rights reserved. The photo album demo is only for my personal project usage, all rights reserved. 
 
 ## Field detection project [Link](https://github.com/JLElsa/Jas/tree/master/Field-Detection)
-![Gif edge detection program]()
+Gif image of how the edge detection program works from expectation to the final result.
+![Gif - edge detection program](https://github.com/JLElsa/Jas/blob/master/Field-Detection/Edge_detection.gif)
+Evidence of created tif files on Google Earth
+![Image - result of the program]()
 Credits to:
 - Ashrafur Rahman [Link](https://www.linkedin.com/in/ashrafsrv/)
 
