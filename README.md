@@ -22,7 +22,7 @@ Credits to:
 Gif image of how the edge detection program works from expectation to the final result:  
 ![Gif - edge detection program](https://github.com/JLElsa/Jas/blob/master/Field-Detection/Edge_detection.gif)  
   
-Evidence of created tif files on Google Earth:  
+Evidence of created tif files on Google Earth :  
 ![Image - result of the program](https://github.com/JLElsa/Jas/blob/master/Field-Detection/Result%20image%20of%20edge%20detection%20program.png)  
 Credits to:  
 - Ashrafur Rahman [Link](https://www.linkedin.com/in/ashrafsrv/)
