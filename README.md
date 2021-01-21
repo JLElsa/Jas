@@ -1,6 +1,6 @@
 # Readme
 ## Check out the bubble milk tea lover web! :blush: [Link](https://github.com/JLElsa/Jas/tree/master/Bubble-Milk-Tea-Lover-Web)
-![Gif of screen shot](https://github.com/JLElsa/Jas/blob/master/Bubble-Milk-Tea-Lover-Web/Gif_of_web_animation.gif)
+![Gif bubble milk-tea web](https://github.com/JLElsa/Jas/blob/master/Bubble-Milk-Tea-Lover-Web/Gif_of_web_animation.gif)
 Credits to:
 - Music made by Heiakim [Link](https://www.youtube.com/channel/UCnTB8uNxND40iwvPiyzpnWw)
 
@@ -19,6 +19,7 @@ Credits to:
 - Slide show photos are online resouces, creators of those images have their full rights reserved. The photo album demo is only for my personal project usage, all rights reserved. 
 
 ## Field detection project [Link](https://github.com/JLElsa/Jas/tree/master/Field-Detection)
+![Gif edge detection program]()
 Credits to:
 - Ashrafur Rahman [Link](https://www.linkedin.com/in/ashrafsrv/)
 
