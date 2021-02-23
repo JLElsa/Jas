@@ -23,7 +23,7 @@ Gif image of how the edge detection program works from expectation to the final 
 ![Gif - edge detection program](https://github.com/JLElsa/Jas/blob/master/Field-Detection/Edge_detection.gif)  
   
 Evidence of created tif files on Google Earth :  
-From 0-shape to 2183-shape, the total amount is 2184 shapes detected from image 1.
+From 0-shape to 2183-shape, the total amount of shapes detected on image 1 is 2184.
 ![Image - result of the program](https://github.com/JLElsa/Jas/blob/master/Field-Detection/Result%20image%20of%20edge%20detection%20program.png)  
 Credits to:  
 - Ashrafur Rahman [Link](https://www.linkedin.com/in/ashrafsrv/)
