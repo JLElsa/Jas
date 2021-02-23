@@ -35,7 +35,7 @@ Credits to:
 
 - "SIMPLEKML 1.3.1 documentation" [Link](https://simplekml.readthedocs.io/en/latest/gettingstarted.html#creating-a-kml-document)
 
-## Simple Demo [Link](https://github.com/JLElsa/Jas/tree/master/Simple%20Demo)  
+## Simple demo web for Cypress testing [Link](https://github.com/JLElsa/Jas/tree/master/Simple%20Demo)  
 Credits to:  
 - How TO - Smooth Scroll" tutorial from W3School.com [Link](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_smooth_scroll)  
 Tools:
