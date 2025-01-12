@@ -1,7 +1,10 @@
 # Instructions to view the animated bubble milk tea music web:
 
-1. Opening the website throught the [link](https://htmlpreview.github.io/?https://github.com/JLElsa/Jas/blob/master/Bubble-Milk-Tea-Lover-Web/home.html).
-2. Waiting 2 minutes for “[htmlpreview.github.io](htmlpreview.github.io)” to load the animation.
+1. Opening the website throught the link [here](https://jlelsa.github.io/Jas/Bubble-Milk-Tea-Lover-Web/home).
+
+2. Waiting a few seconds for the linked youtube video to be loaded to the page.
+   - Prerequisite:
+     - Make sure you have logged in to your own YouTube account, then the video can be displayed.
 
 Result:
 ![Gif bubble milk-tea web](https://github.com/JLElsa/Jas/blob/master/Bubble-Milk-Tea-Lover-Web/Gif_of_web_animation.gif)  
